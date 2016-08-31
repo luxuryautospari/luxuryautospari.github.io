@@ -12,6 +12,14 @@ people:
   pic: 1
   position: Lead Detailer
 
+- name: Joe Cruz
+  pic: 2
+  position: Cleaner
+
+- name: Joe Cruz
+  pic: 3
+  position: Waxing
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
